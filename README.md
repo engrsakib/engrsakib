@@ -22,6 +22,7 @@ Here are some ideas to get you started:
    <img src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/max_rating.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrsakib&label=Profile%20views&color=0e75b6&style=flat" alt="engrsakib" /> </p>
+![WakaTime](https://wakatime.com/badge/user/engrsakib.svg)
 
 
 
