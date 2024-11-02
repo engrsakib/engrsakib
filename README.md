@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Contest Rating:</h3>
  <a href="https://codeforces.com/profile/engrsakib"><img height="230px" src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/> </a>
- <p align="center">
+ <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=engrsakib&layout=compact&theme=react" alt="WakaTime" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrsakib&show_icons=true&locale=en&layout=compact" alt="engrsakib" /></p>
