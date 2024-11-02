@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/375564652_1802272053522212_3008095441202908034_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHK1fGTaf3IdYT5Qqj1JYpEGO3PgaF2k40Y7c-BoXaTjcEs72Tse6WdJuYvLB9J3TwvmxfqWfSP9OLKngkj8QBL&_nc_ohc=LDe7NY9cI94AX9scR5w&_nc_ht=scontent.fdac155-1.fna&oh=00_AfCXUn_Q3OQ6H5R9F4OVctcqaYso2ngqZdIpY2QCLkV2dw&oe=65F1603E">
+<img src="https://i.ibb.co.com/bR82HZk/cover.jpg">
 <h1 align="center">I'm Md. Nazmus Sakib</h1>
 <h3 align="center">Competitive Programmer || Problem Solver || Programming Instructor</h3>
 
