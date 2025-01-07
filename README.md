@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co.com/bR82HZk/cover.jpg">
+<img src="./cover.jpeg">
 <h1 align="center">I'm Md. Nazmus Sakib</h1>
 <h3 align="center">Competitive Programmer || Problem Solver || Programming Instructor</h3>
 
