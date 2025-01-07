@@ -88,21 +88,11 @@
 </div>
 
 
-##
+###
 <h3 align="left">My coding times:</h3>
  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=engrsakib&layout=compact&theme=react" alt="WakaTime" />
 </p>
-
-###
-<h3 align="left">Git Contributions:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
-  <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrsakib&show_icons=true&locale=en" alt="engrsakib" /></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engrsakib&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 
 ###
@@ -111,5 +101,17 @@
  <a href="https://codeforces.com/profile/engrsakib"><img height="230px" src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/> </a>
 
 <p><img align="center" src="https://leetcard.jacoblin.cool/engrsakib?theme=dark&font=Raleway&ext=activity" alt="Md. Nazmus Sakib" /></p>
+
+###
+
+
+<h3 align="left">Git Contributions:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+  <p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrsakib&show_icons=true&locale=en" alt="engrsakib" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engrsakib&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
