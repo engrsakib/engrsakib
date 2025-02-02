@@ -64,6 +64,9 @@
 ###
 
 <div align="left">
+  <a href="https://www.engrsakib.com/" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/3694/3694372.png?semt=ais_hybrid" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=info@engrsakib.com&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
@@ -107,11 +110,22 @@
 
 <h3 align="left">Git Contributions:</h3>
 
+
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=engrsakib&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<div align="center">
+  <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+   <img src="https://streak-stats.demolab.com?user=engrsakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
+
   <p>&nbsp;
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrsakib&show_icons=true&locale=en" alt="engrsakib" /></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engrsakib&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+</div>
 
-###
+
