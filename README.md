@@ -12,7 +12,12 @@
 
 ###
 
-<p align="center">Competitive Programmer || Problem Solver || Front End Developer</p>
+<p align="center">Competitive Programmer || Problem Solver || MERN Stack Developer</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=45&lines=Crafting+Innovative+Web+Solutions;Full+Stack+Developer+%7C+MERN+Stack;Competitive+Problem+Solver" alt="Typing SVG" />
+</p>
 
 <a href="https://codeforces.com/profile/engrsakib">
    <img src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/max_rating.svg" />
@@ -116,7 +121,7 @@
 </div>
 
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; gap: 7px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
    <img src="https://streak-stats.demolab.com?user=engrsakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
