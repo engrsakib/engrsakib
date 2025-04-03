@@ -14,7 +14,6 @@
 
 <p align="center">Competitive Programmer || Problem Solver || MERN Stack Developer</p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=45&lines=Crafting+Innovative+Web+Solutions;Full+Stack+Developer+%7C+MERN+Stack;Competitive+Problem+Solver" alt="Typing SVG" />
 </p>
@@ -24,7 +23,6 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrsakib&label=Profile%20views&color=0e75b6&style=flat" alt="engrsakib" /> </p>
 <!-- wakatime --><a href="https://wakatime.com/@e3d15f9e-99b8-42ef-b6ff-cba3b4151d9c"><img src="https://wakatime.com/badge/user/e3d15f9e-99b8-42ef-b6ff-cba3b4151d9c.svg" alt="Total time coded since Jul 28 2024" /></a>
-
 
 ###
 
@@ -95,43 +93,40 @@
   </a>
 </div>
 
-
 ###
+
 <h3 align="left">My coding times:</h3>
  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=engrsakib&layout=compact&theme=react" alt="WakaTime" />
 </p>
 
-
 ###
+
 <h3 align="left">Contest Rating:</h3>
 
- <a href="https://codeforces.com/profile/engrsakib"><img height="230px" src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/> </a>
+<a href="https://codeforces.com/profile/engrsakib"><img height="230px" src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/> </a>
 
 <p><img align="center" src="https://leetcard.jacoblin.cool/engrsakib?theme=dark&font=Raleway&ext=activity" alt="Md. Nazmus Sakib" /></p>
 
 ###
 
-
 <h3 align="left">Git Contributions:</h3>
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=engrsakib&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
-  <div style="display: flex; gap: 7px">
+  <div style="display: flex;">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
    
    <!-- <img src="https://streak-stats.demolab.com?user=engrsakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 
-
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrsakib&show_icons=true&locale=en" alt="engrsakib" /></p>
   </div>
 
-  <p>&nbsp;
-<div>
-
+  
 
 <div align="center">
 
@@ -139,10 +134,6 @@
 
 <br>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrsakib&show_icons=true&locale=en" alt="engrsakib" /></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engrsakib&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 </div>
-
-
