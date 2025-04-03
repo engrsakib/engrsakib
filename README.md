@@ -135,12 +135,9 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engrsakib&theme=react&border_radius=10)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engrsakib&theme=react&utcOffset=8&border_radius=10)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engrsakib&theme=react&border_radius=10" width="100%">
 
-</div>
-
-
+<br>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrsakib&show_icons=true&locale=en" alt="engrsakib" /></p>
